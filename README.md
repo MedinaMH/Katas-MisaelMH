@@ -1,2 +1,2 @@
-# Katas-MisaelMH
+# Katas-OnBoarding-Launch X
 Documentación de Katas
